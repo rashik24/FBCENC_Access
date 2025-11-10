@@ -1,0 +1,986 @@
+,Parent,Avg_Monthly_Supply,Parent Agency No.,Name
+0,D1001,9539.738095238095,D1001,ACTS of Vance County  
+1,D1002,5479.411904761905,D1002,Alliance Rehabilitative Care - Men Halfway House
+2,D1003,3849.5,D1003,CSFP - Passmore Center (Orange  
+3,D1004,115.0,D1004,SFSP - RTP Kids Place  
+4,D1005,9718.623333333333,D1005,Alston Chapel United Holy Church
+5,D1006,1207.5555555555557,D1006,Anathoth House  
+6,D1007,476.94117647058823,D1007,Another Chance For  
+7,D1008,81842.89916666667,D1008,Area Congregations in Ministry  
+8,D1009,4071.0833333333335,D1009,Believers United for Progress New Visions of Africa
+9,D1010,8460.229166666666,D1010,Bell-Yeager  
+10,D1011,5792.833333333333,D1011,Belton Creek Baptist Church  
+11,D1012,6681.739130434783,D1012,Big Ruin Creek Baptist  
+12,D1013,1426.0217391304348,D1013,Birchwood Learning Center  
+13,D1014,965.7142857142857,D1014,Boys and Girls Club of Greater Durham
+14,D1015,8287.84625,D1015,ata  
+15,D1017,638.5714285714286,D1017,Calvary Temple Holy Church  
+16,D1018,4145.729166666667,D1018,Catholic Charities Durham Community Food Pantry
+17,D1019,8493.02125,D1019,Cedar Grove Mt. Zion AME Church
+18,D1020,60913.59855263158,D1020,Chatham Out-Reach Alliance (CORA)
+19,D1021,6247.035416666667,D1021,Christian Assembly Emergency Food Pantry
+20,D1022,7116.788333333333,D1022,Christian Faith Center of Creedmoor
+21,D1023,19892.946666666667,D1023,Christian Help Center  
+22,D1024,2509.237,D1024,Church of God of Prophecy  
+23,D1025,5188.8,D1025,Church of Philadelphia  
+24,D1026,2502.625,D1026,CIP Communities In Partnership
+25,D1027,5804.406666666667,D1027,Cokesbury United  
+26,D1029,7064.494166666666,D1029,Cotton Memorial Presbyterian Church
+27,D1030,10527.5,D1030,DD-Carr United Methodist Church
+28,D1032,5482.944444444444,D1032,DD-Oldham Towers Senior Bldg.  
+29,D1033,3315.325,D1033,Divine Grace Fellowship Outreach Ministry
+30,D1035,3861.369565217391,D1035,Durham Center For Senior Life  
+31,D1036,72.16666666666667,D1036,Durham Crisis Response Center  
+32,D1037,162.25,D1037,Durham Exchange Club Industries
+33,D1038,22270.472222222223,D1038,Durham Rescue Mission Ministries  
+34,D1039,2640.8260869565215,D1039,CSFP - Seymour Center  
+35,D1040,1102.8181818181818,D1040,Durham Tech Community College Harvest Food Pantry
+36,D1041,1670.7083333333333,D1041,Emanuel Tabernacle Holiness Church
+37,D1042,728.3888888888889,D1042,Evergreen UMC -  
+38,D1043,7495.875,D1043,Faith Gospel Tabernacle United Holy Church
+39,D1044,380.5,D1044,DD-Father Son Holiness Church  
+40,D1045,24692.351322463768,D1045,Feed My Sheep of Durham Food Pantry
+41,D1047,47091.79083333333,D1047,First Baptist Church Creedmoor
+42,D1048,11245.857142857143,D1048,First Baptist Church Of  
+43,D1049,1116.0,D1049,First Calvary Baptist Church  
+44,D1050,15600.084166666667,D1050,Fisher Memorial United Holy Church
+45,D1051,729.0,D1051,Fitts-Powell Apts  
+46,D1053,178.0,D1053,For The Greater Good 5  
+47,D1054,5358.0,D1054,Freedom House  
+48,D1055,604.1428571428571,D1055,SP - W.G. Pearson Magnet  
+49,D1056,23328.643131313132,D1056,Friends of Orange County DSS  
+50,D1057,1202.5882352941176,D1057,DD-FTHOP  
+51,D1059,29607.084106280192,D1059,Gang Free INC  
+52,D1060,2700.25,D1060,DD-Grace and Peace Tabernacle  
+53,D1062,18154.4725,D1062,Grace Outreach Enrichment Ministry
+54,D1063,438.3333333333333,D1063,Greater Deliverance Tabernacle  
+55,D1064,11550.770833333334,D1064,Hannah's Community Kitchen  
+56,D1065,2879.345652173913,D1065,Greater Ransom Way of the Cross Temple
+57,D1066,714.7727272727273,D1066,Greater Refuge Temple  
+58,D1067,1032.6666666666667,D1067,Group Homes Inc  
+59,D1068,3779.6666666666665,D1068,WPP - Burton Geo-World Magnet  
+60,D1069,150.0,D1069,WPP - Eastway Elemen School  
+61,D1070,6903.0,D1070,WPP - Walnut Grove United  
+62,D1071,6317.518181818182,D1071,Haw River Baptist Church  
+63,D1072,16170.436488095238,D1072,Healing With CAARE  
+64,D1073,15049.052916666667,D1073,Hillsborough Church Of God  
+65,D1074,2341.0,D1074,Hope Church International  
+66,D1075,20904.0,D1075,Iglesia Presbiteriana Emanuel First Presbyterian Church
+67,D1076,10934.531739130436,D1076,Immanuel Temple SDA Community Services
+68,D1077,8363.463333333333,D1077,Inter-Faith Council Food Pantry in Chapel Hill
+69,D1078,584.2272727272727,D1078,CSFP - Hannah's Comm. Kitchen  
+70,D1079,691.5555555555555,D1079,Jamaat Ibad Ar Rahman  
+71,D1080,733.7142857142857,D1080,Jesus Word Church  
+72,D1081,249.75,D1081,Jewish Family Services  
+73,D1082,7257.397727272728,D1082,CSFP - JFK Towers  
+74,D1083,963.3095238095239,D1083,Jonathans Outreach Network  
+75,D1084,2684.7916666666665,D1084,Just A Clean House  
+76,D1086,5993.75,D1086,Kings Park Church Celebracion
+77,D1087,2899.6190476190477,D1087,Kitrell Shiloh Missionary Baptist Church
+78,D1088,1541.9130434782608,D1088,Life International Holton Resource Center
+79,D1089,11588.666666666666,D1089,Living Stones  
+80,D1090,9340.108695652174,D1090,Living Waters Christian  
+81,D1092,709.8125,D1092,Luthern Services Carolina  
+82,D1094,1280.4,D1094,Meals on Wheels of Durham  Inc  
+83,D1095,9999.104166666666,D1095,Mebane's Chapel United Holy Church
+84,D1096,1207.0833333333333,D1096,Michael's Place Group Home
+85,D1097,21341.082916666666,D1097,DD-Ministerios Guerreros De JesúCristo International
+86,D1098,35359.38798309179,D1098,CSFP - Mr Fred's Food Pantry  
+87,D1099,3261.9583333333335,D1099,Mt. Bethel United Methodist Church
+88,D1100,5382.711666666667,D1100,Mt. Level Community Haven Two Fishes Five Loaves Pantry
+89,D1101,1484.4545454545455,D1101,Mt. Sylvan United Methodist Church
+90,D1102,12005.0,D1102,Mt. Zion Christian Church  
+91,D1103,5902.25875,D1103,Mt. Zion Christian Church Henderson
+92,D1104,2223.875,D1104,New Visions of Africa  
+93,D1105,12181.669565217391,D1105,Oak Grove Community Food Pantry Direct Dist
+94,D1106,1302.0,D1106,Oak Grove UAFree Will Baptist Outreach Ministry
+95,D1107,6377.3125,D1107,Obedience To The Word  
+96,D1108,5611.555555555556,D1108,CSFP - On Fire for God  
+97,D1109,764.9705882352941,D1109,Orange Co Head Start/Early HS  
+98,D1110,8333.19875,D1110,Orange Congregations Mission  
+99,D1111,1053.0882352941176,D1111,Orange County Disability Awareness Council
+100,D1112,1827.125,D1112,Orange United Methodist Church  
+101,D1113,2248.75,D1113,Our Teams Our Children  
+102,D1114,7303.285714285715,D1114,Oxford Speaks Life Church House of Ministries
+103,D1115,31906.78875,D1115,DD-Parkwood Elementary PTA  
+104,D1116,8507.47619047619,D1116,Pettiford Grove Baptist Church  
+105,D1117,14504.727083333333,D1117,Pine Grove Baptist Church  
+106,D1118,2745.25,D1118,Positive Directions  
+107,D1119,693.7142857142857,D1119,Rainbow 66 Storehouse Inc  
+108,D1120,4900.167647058824,D1120,RAM Organization  
+109,D1121,159.625,D1121,Reality Ministries  
+110,D1122,1258.7058823529412,D1122,Recovery Connections of Durham  
+111,D1123,10468.5,D1123,Rogers-Eubanks Neighborhood Association (RENA)
+112,D1124,1963.1739130434783,D1124,Rougemont Food Pantry Rougemont UMC
+113,D1125,2231.6363636363635,D1125,Roxboro Church of God  
+114,D1126,9137.369583333333,D1126,Russell Memorial CME Church  
+115,D1127,8733.791666666666,D1127,Salvation Army-Durham  
+116,D1128,249.8181818181818,D1128,CSFP - St Mark's AME Zion  
+117,D1129,8046.617916666666,D1129,Salvation Army-Henderson  
+118,D1130,4724.2411764705885,D1130,Seed Time & Harvest Fellowship  
+119,D1131,10490.361666666666,D1131,Shiloh Baptist Church  
+120,D1132,7879.888749999999,D1132,Southside Church of Christ COST Comm Outrch Specl Team
+121,D1133,2552.7083333333335,D1133,St. John United Holy Church  
+122,D1134,3270.625,D1134,St. John's House of Refuge  
+123,D1135,973.6666666666666,D1135,St. Joseph AME Church  
+124,D1136,23765.545454545456,D1136,St James Missionary Baptist  
+125,D1137,5145.607177033493,D1137,St. James of Durham Baptist Church
+126,D1138,27366.454545454544,D1138,DD-St. Julia Catholic Church  
+127,D1139,491.85714285714283,D1139,Help and Hope Univeral  
+128,D1140,2534.2083333333335,D1140,Sunrise Recovery Resource Center/Alcohol Drug Council
+129,D1141,4421.3,D1141,TABLE NC  
+130,D1142,20624.13625,D1142,The Help Center Inc  
+131,D1143,6447.65,D1143,The Lord House Prophetic  
+132,D1144,574.6666666666666,D1144,Triangle Empowerment Center Inc  
+133,D1146,61103.395833333336,D1146,TROSA  
+134,D1147,7008.583333333333,D1147,CSFP - Union Baptist  
+135,D1148,1067.3333333333333,D1148,United Nations Worship Center  
+136,D1149,20616.469696969696,D1149,DD-Upon This Rock Ministry  
+137,D1150,8256.967105263158,D1150,Urban Ministries Food Pantry  
+138,D1151,198.25,D1151,SFSP - Walltown Children's  
+139,D1153,448.0,D1153,Victorious Life Empowerment  
+140,D1154,1237.2916666666667,D1154,Volunteers of America  
+141,D1155,487.77777777777777,D1155,Warren-Vance Community Health Center Inc
+142,D1156,2997.318181818182,D1156,West Chatham Food Pantry  
+143,D1157,16790.16363636364,D1157,White Rock Baptist Church  
+144,D1158,644.2,D1158,William Hawkins Yth Ministries Project LIFT
+145,D1159,11718.252380952381,D1159,Word Harvest International Word Empowerment Church
+146,D1160,113029.57930555556,D1160,Word of Life Christian Center
+147,D1161,39129.8,D1161,DD-Young Memorial  
+148,D1162,10117.837916666665,D1162,Zion Christian Center  
+149,D1163,1405.2307692307693,D1163,BP - Epworth United Methodist  
+150,D1164,9600.5,D1164,DD-Bright Sun  
+151,D1165,8803.5,D1165,DD-Calvary UMC Cristo Vive
+152,D1166,7009.444444444444,D1166,DD-Destiny Church of God  
+153,D1167,10866.681818181818,D1167,DD-Durham Spanish SDA Church  
+154,D1168,6307.4,D1168,DD-Gaines Chapel AME Church  
+155,D1169,8876.59090909091,D1169,DD-Glenn's Grove  
+156,D1170,9793.0,D1170,DD-Gomains Avenue  
+157,D1171,8209.795454545454,D1171,DD-Grow To Life  
+158,D1172,7141.285714285715,D1172,DD-Henderson Towers Resident  
+159,D1173,8587.5,D1173,DD-Hunter's Chapel  
+160,D1174,7032.0,D1174,DD-Hurdle Mills  
+161,D1175,8815.95652173913,D1175,DD-Piney Grove Baptist Church  
+162,D1176,8536.166666666666,D1176,DD-Preiss-Steele Apartments  
+163,D1177,11971.666666666666,D1177,DD-South Estes  
+164,D1178,4044.3333333333335,D1178,Direct Dist. -- Chatham County  
+165,D1179,420.0,D1179,Direct Dist. --Person County  
+166,D1180,6135.0,D1180,Direct Dist. --Vance County  
+167,D1181,14258.666666666666,D1181,Direct Distr. -- Durham  
+168,D1183,11904.130952380952,D1183,DD-Hillsborough SDA  
+169,D1185,3316.3333333333335,D1185,BP-Bethesda Baptist Church  
+170,D1188,9111.21052631579,D1188,JEWELS Outreach and Networking  
+171,D1189,1662.642857142857,D1189,Nehemiah Christian Center  
+172,D1194,75.0,D1194,Beacon Lights Academy  
+173,D1196,1785.1458333333333,D1196,CSFP - Carolina Spring (Orange  
+174,D1199,1949.6666666666667,D1199,CSFP - Emerson Woods  
+175,D1201,509.5625,D1201,KC - Chapel Hill Parks & Rec  
+176,D1203,2066.086956521739,D1203,CSFP - Lakeview Baptist  
+177,D1204,6126.739130434782,D1204,CSFP - Morehead Hills  
+178,D1205,1955.8260869565217,D1205,CSFP - Word Harvest  
+179,D1207,601.0,D1207,OE Enterprises  
+180,D1210,636.0,D1210,SFSP- Ministers Outreach  
+181,D1214,26048.847619047618,D1214,Chapel Hill Training Outreach-  
+182,D1220,523.9047619047619,D1220,Amity United Methodist Church  
+183,D1221,14353.0,D1221,"Peace, Love and Unity  "
+184,D1222,7357.761904761905,D1222,Jones Grove Missionary Baptist Church  
+185,D1223,3302.1428571428573,D1223,All My Children Family Resource Center  
+186,D1225,21006.333333333332,D1225,Orange County - Disaster Relief  
+187,D1226,112.42857142857143,D1226,LIFE Center of Durham  
+188,D1227,1071.5833333333333,D1227,Club Blvd. School PTA  
+189,D1228,409.5,D1228,
+190,D1229,745.5,D1229,SP-Jordan High School  
+191,D1230,736.0,D1230,WPP-Oak Grove Elementary   
+192,D1231,450.0,D1231,WPP- Lakeview Secondary School  
+193,D1232,1057.3333333333333,D1232,Root Causes Fresh Produce Program  
+194,D1233,517.0,D1233,UNC at Chapel Hill Pediatric CF Center  
+195,D1258,11550.4,D1258,Cedar Grove Community Center  
+196,D1259,11897.0,D1259,Heavenly Manna  
+197,G1000,454.0,G1000,Abundant Life Church  
+198,G1002,16691.613749999997,G1002,Alpha and Omega Church  
+199,G1003,4346.5,G1003,American Red Cross  
+200,G1004,127.0,G1004,American Red Cross- Lenoir  
+201,G1005,1010.8571428571429,G1005,An-Nissa 2  
+202,G1006,8964.8225,G1006,Antioch United Holy Church  
+203,G1007,1621.7142857142858,G1007,Apostolic Deliverance  
+204,G1008,2876.75,G1008,Armor of God Christian Church  
+205,G1010,6233.833333333333,G1010,Ayden Christian Care Center  
+206,G1012,292.25,G1012,BP - Ayden United Methodist Ch  
+207,G1013,4903.714285714285,G1013,Direct Distribution -- Onslow  
+208,G1014,1022.6666666666666,G1014,"Believe In Jesus Ministry, Inc  "
+209,G1015,1362.4285714285713,G1015,BP - Bethel United Methodist Church  
+210,G1016,233.0,G1016,SFSP - Bethlehem Missionary  
+211,G1017,1015.8181818181819,G1017,Black Jack OFWB Church  
+212,G1018,8643.640833333333,G1018,Bountiful Blessings House of Redemption Inc
+213,G1019,1084.0,G1019,CKC - Boys & Girls Club of the  
+214,G1020,13757.125416666668,G1020,Bread of Life Grifton  
+215,G1023,4345.25,G1023,Catholic Charities- Tar River Regional Office
+216,G1024,2070.5833333333335,G1024,Christ Deliverance Tabernacle Ministries
+217,G1025,4552.833333333333,G1025,Christian Fellowship Homes Food Pantry
+218,G1026,1490.1,G1026,BP - Christ's Church/Creekside  
+219,G1027,66465.7901871317,G1027,Churches Outreach  Network  
+220,G1028,4360.2307692307695,G1028,Community Soup Kitchen of  
+221,G1029,18804.291666666664,G1029,Conetoe Family Life Center  
+222,G1030,1269.357142857143,G1030,Darden Enlightenment Center  
+223,G1032,13074.153846153846,G1032,Direct Distr. -- Lenoir County  
+224,G1033,7648.75,G1033,Direct Distr. -- Pitt County  
+225,G1036,12955.57125,G1036,Emmanuel Community Unison Baptist Church
+226,G1037,17559.023333333334,G1037,Faith Developmental Community Center
+227,G1038,13407.556666666665,G1038,First Born Community  
+228,G1039,5123.58875,G1039,First Missionary Baptist Church
+229,G1040,655.7142857142857,G1040,Flynn Christian Fellowship  
+230,G1041,1206.5,G1041,Freedom Family Foundation Inc  
+231,G1042,962.0,G1042,BP - Garris Chapel United  
+232,G1044,7039.109523809523,G1044,Greater St Peter Church Ministries Inc
+233,G1045,42571.77013888889,G1045,Greene County Interfaith Volunteers
+234,G1046,15191.5,G1046,Greene Lamp  
+235,G1048,57859.833333333336,G1048,Grifton Mission Ministries  
+236,G1050,45643.85172619048,G1050,Hands for Humanity CDC  
+237,G1051,19781.083333333332,G1051,Haven's Rescue Disaster Relief  
+238,G1052,4741.952380952381,G1052,Herring Grove FWB Church  
+239,G1053,14033.739130434782,G1053,Hobgood Citizens Group  
+240,G1054,197.66666666666666,G1054,Hope of Glory Ministries Inc  
+241,G1056,8842.40909090909,G1056,Iglesia Pentecostal Unida  
+242,G1057,6035.4375,G1057,Ivory Hill Baptist Church  
+243,G1058,7244.577499999999,G1058,Joseph Provisions  
+244,G1059,1983.25,G1059,JOY Soup Kitchen  
+245,G1060,2325.695652173913,G1060,Kairos Church Ministry  
+246,G1061,185.27272727272728,G1061,Kennedy Baptist Children's Home  
+247,G1062,3486.695652173913,G1062,Kingdom Care Inc  
+248,G1063,6216.166666666666,G1063,Kingdom Kids Club - Lighthouse Fellowship Min.
+249,G1064,10966.319166666666,G1064,Koinonia Christian Center Church
+250,G1065,19718.0,G1065,Lenoir - Disaster Relief  
+251,G1066,2469.6191304347826,G1066,Living Waters Ministries of Pinetops Inc SOAR
+252,G1067,2381.230769230769,G1067,Loving Light Community  
+253,G1068,239.52941176470588,G1068,LWG Inter-Generational  
+254,G1069,11900.666666666666,G1069,Mary Grove Missionary Baptist  
+255,G1070,814.5,G1070,Mary's Kitchen  
+256,G1071,3770.590909090909,G1071,"Bread of Life Ministries, Inc.  Farmville COG 7th Day"
+257,G1072,2196.8947368421054,G1072,Mount Calvary Grace & Mercy Street Ministry  
+258,G1073,8037.041666666667,G1073,NEEDS Center  
+259,G1074,6058.829166666666,G1074,New Freedom Interracial  
+260,G1075,4554.631578947368,G1075,New Mt Moriah United Holy Church
+261,G1076,409.5,G1076,Northern Pitt County  
+262,G1079,4093.224358974359,G1079,Operation Sunshine Inc  
+263,G1080,12699.624782608695,G1080,Optimal Beginnings Inc  
+264,G1081,29535.150416666667,G1081,Paradise Outreach Ministries Inc
+265,G1082,15847.04,G1082,Pentecostal Temple   
+266,G1083,4675.866666666667,G1083,Philippi Church of Christ  
+267,G1084,17119.0,G1084,Pitt - Disaster Relief  
+268,G1085,17268.146249999998,G1085,Project Anna Inc  
+269,G1086,7805.666666666667,G1086,"Regeneration Development Group, Inc"
+270,G1087,26389.8115942029,G1087,Rose Hill Free Will Baptist Church
+271,G1089,2159.9816666666666,G1089,Saints Delight Church of God  in Christ  
+272,G1090,13646.444166666668,G1090,Salem United Methodist Church Share the Bounty Food Pantry
+273,G1092,8314.004583333333,G1092,Salvation Army-Greenville  
+274,G1093,914.8888888888889,G1093,KC - Scotland Neck  
+275,G1094,1001.8947368421053,G1094,Senior Home Care Services Inc Ministry of Sycamore Hill MBC
+276,G1095,1051.5263157894738,G1095,Sharon United Methodist Church Book Bag Buddies
+277,G1096,402.2,G1096,Spirit of Unity  
+278,G1097,3312.5,G1097,St. James United Methodist Church
+279,G1098,10230.605833333335,G1098,St. Paul's Episcopal Church Back Pack Buddies
+280,G1099,1820.608695652174,G1099,St. Peter Catholic Church  
+281,G1100,6734.1,G1100,St. Marks/ La Guadalupana Episcopal Churches
+282,G1101,18490.864166666666,G1101,St. Paul Church of Christ Guardian Angel Outreach
+283,G1102,4850.615384615385,G1102,St. Peter's Development Center  
+284,G1103,13606.983333333334,G1103,Staton Mill Road Community Outreach Inc
+285,G1104,1016.4,G1104,KC - Str8t Progress Kids Cafe  
+286,G1105,4790.583333333333,G1105,Straightway Church  
+287,G1106,210.0,G1106,SFSP - Success Academy  
+288,G1107,19474.285,G1107,Tabernacle of God Community Church Inc Outreach Ministry
+289,G1108,153977.05,G1108,Tarboro Community Outreach  
+290,G1111,25219.225000000002,G1111,The Anointed Ones Church Mission Office
+291,G1112,15258.9375,G1112,The Memorial Baptist Church  
+292,G1113,4290.2091666666665,G1113,The Rhema Word Christian  
+293,G1114,9863.498333333333,G1114,The Way of the Cross Outreach Center
+294,G1115,1551.340909090909,G1115,Third Street Community Center  
+295,G1116,15206.652916666666,G1116,Twilight Missionary Baptist Church
+296,G1117,30722.208333333332,G1117,"Union Mission, Inc  "
+297,G1118,217.0,G1118,Unveiling Glory In Worship  
+298,G1119,7026.352083333333,G1119,Victory & Dominion World Outreach - Sheppard Ministries
+299,G1120,1260.7222222222222,G1120,ECU Health Medical Food Pantry formerly Vidant Medical Food Pantry
+300,G1121,18548.98888888889,G1121,Whats The Need  
+301,G1122,8601.666666666666,G1122,Wilson - Disaster Relief  
+302,G1123,20118.791666666664,G1123,Wilson County Interfaith Hope Station
+303,G1124,32109.600000000002,G1124,Word of Truth Anointed Ministries Inc
+304,G1125,8097.25,G1125,WRAJ  
+305,G1126,68419.51,G1126,You Need Help Outreach Ministry
+306,G1219,2198.8333333333335,G1219,Spirit & Truth Worship Center  
+307,G1221,8060.44,G1221,Selvia Chapel F.W.B. Church  
+308,G1222,326.0,G1222,SFSP-Tabernacle of God Community Church  
+309,G1223,5056.0,G1223,Robeson County - Disaster Relief  
+310,G1224,3828.0,G1224,Arise Community Outreach  
+311,G1225,24855.8705,G1225,Love N Action Outreach Inc.  
+312,G1227,4412.363636363636,G1227,"Chosen Vessels Ministries, INC.  "
+313,G1228,1850.0,G1228,"AMEXCAN, Inc.  "
+314,G1233,15506.201428571429,G1233,Zion Chapel Food Pantry   
+315,G1234,10314.0,G1234,"The Mercer Foundation, Inc.  "
+316,G1236,2366.5,G1236,86Hunger  
+317,N1000,3204.3333333333335,N1000,DR-About My Father's Business  
+318,N1001,1860.4166666666667,N1001,Abundant Life International Baptist Cathedral
+319,N1002,15556.963753968254,N1002,Abundant Life Miracle Center  
+320,N1003,4562.0317460317465,N1003,DR-Acts of Mercy   
+321,N1004,29442.49015151515,N1004,Adelphia CDC Inc Food Pantry
+322,N1005,1172.5,N1005,American Red Cross  
+323,N1006,1727.6666666666665,N1006,Antioch Community Outreach Inc  
+324,N1008,13545.43006993007,N1008,Area Day Reporting Program For Youth/Feed My Sheep Ministries
+325,N1009,177.66666666666666,N1009,Boys & Girls Club of the  
+326,N1010,5519.416666666666,N1010,Woodville Baptist Church  
+327,N1011,42999.48357142857,N1011,Word of God Christian Center  
+328,N1012,7459.173913043478,N1012,BP - Backpack Blessings  
+329,N1013,688.5,N1013,BP - United Way of Onslow County CHEW
+330,N1014,14286.643055555556,N1014,Calvary Baptist Church  
+331,N1015,12365.4,N1015,Carteret - Disaster Relief  
+332,N1016,6238.181818181818,N1016,Christian Disciples  
+333,N1017,2827.9333333333334,N1017,Cornerstone Assembly  
+334,N1018,40103.181818181816,N1018,Craven County Disaster  
+335,N1020,427.38695652173914,N1020,CSFP - Fairview Apts  
+336,N1023,7189.8374534161485,N1023,DR-Ephesus SDA Church   
+337,N1024,9093.554347826086,N1024,First United Methodist Church of Sneads Ferry
+338,N1026,29649.287500000002,N1026,Folkstone Original Free Will Baptist Church
+339,N1027,3237.25,N1027,SP - Fred Anderson  
+340,N1029,3797.0,N1029,Garber United Methodist Church  
+341,N1030,8815.0,N1030,God's City of Refuge Inc  
+342,N1031,3836.125,N1031,Havelock Cherry Point Ministerial Outreach
+343,N1032,4482.898809523809,N1032,DR-Heartworks   
+344,N1034,18671.019583333335,N1034,Iglesia de Dios Pentecostal  
+345,N1036,12589.875,N1036,Jones - Disaster Relief  
+346,N1038,4587.934583333333,N1038,JT Kerr Memorial Baptist Food Pantry
+347,N1039,16375.9,N1039,Kingdom City Ministries of Onslow County  
+348,N1040,10020.504761904762,N1040,Lighthouse Community Church Food Pantry
+349,N1041,6894.779220779221,N1041,Living Bread Holiness Church New Outreach Deliverance Minis
+350,N1042,458.0,N1042,Living Hope Community Church  
+351,N1043,3959.5714285714284,N1043,Loaves and Fishes of Beaufort  
+352,N1044,23072.652173913044,N1044,Martha's Mission Cupboard  
+353,N1045,13529.823529411764,N1045,Maysville Methodist Church Church
+354,N1046,11297.511904761905,N1046,DR-Mission Hope World Outreach  
+355,N1047,68385.95842650103,N1047,Mount Carmel  Food Pantry and Emer. Services
+356,N1048,1772.1,N1048,NABVETS ENC-VUCS  
+357,N1050,191.0,N1050,Bear Paws Food Pantry  
+358,N1051,1301.752508361204,N1051,New Bern Older Adult Housing Food Pantry (NOAH)
+359,N1052,2151.6875,N1052,The Meadows Apartments Senior Housing
+360,N1053,12285.755555555555,N1053,New Hope Community Outreach  
+361,N1054,4677.619047619048,N1054,New Life Church  
+362,N1055,26863.571428571428,N1055,Onslow - Disaster Relief  
+363,N1056,46162.07971014493,N1056,Onslow Community Outreach  Jacksonville
+364,N1057,1200.5714285714287,N1057,Open Arms Plain Truth  
+365,N1058,26548.76958333333,N1058,Open Door Management Inc  
+366,N1059,29590.03625,N1059,Pamlico County Fishes & Loaves Outreach Inc
+367,N1060,1298.4,N1060,Spencer's Place Group Home  
+368,N1061,6584.0205000000005,N1061,Peletah Ministries  
+369,N1062,3742.9444444444443,N1062,Reelsboro United Christian Svc Reelsboro UMC
+370,N1063,43139.34502923977,N1063,Religious Community Services  
+371,N1064,29365.41875,N1064,Richlands Community Outreach Ministry
+372,N1065,6090.347826086957,N1065,Salvation Army Carteret Co  
+373,N1067,40722.88287280702,N1067,Salvation Army-Jacksonville  
+374,N1068,11971.173333333334,N1068,Salvation Army-Maysville Assistance
+375,N1069,2052.375,N1069,Salvation Army-New Bern  
+376,N1070,5467.090909090909,N1070,Second Chance Mission Of Hope  
+377,N1071,27480.350000000002,N1071,White Oak Ecumenical Outreach Ministries  Outreach Ministries
+378,N1072,1513.7166666666667,N1072,DR-St. Andrew's Lutheran Church   
+379,N1073,659.7857142857143,N1073,St. Anne's Episcopal Church  
+380,N1074,6683.964927536232,N1074,St. James Methodist Church  
+381,N1075,1304.6,N1075,St. Johns Missionary Baptist  
+382,N1076,1826.8333333333333,N1076,Tabernacle Baptist Church Unity Ministry
+383,N1077,28558.704166666666,N1077,Feed Craven  The Church at New Bern
+384,N1078,54472.7125,N1078,The Storehouse Pantry  
+385,N1080,3674.2745098039213,N1080,Trenton Methodist Church Church-Food Pantry
+386,N1081,7635.2505,N1081,Undenominational Pentcostal  
+387,N1082,628.0,N1082,United Missionary  
+388,N1083,9588.380952380952,N1083,Vanceboro Christian Help Center Help Center
+389,N1084,9354.47619047619,N1084,Wildwood Presbyterian Church  
+390,N1089,133.0,N1089,St. Paul's Episcopal Church   
+391,N1090,20846.88263157895,N1090,Promise Place  
+392,N1091,197.0,N1091,Craven Terrace Food Pantry  
+393,N1092,57930.23272727273,N1092,St. Julia AME Zion  
+394,N1093,34555.60544871795,N1093,The Filling Station  
+395,N1094,25946.0,N1094,Beaufort County - Disaster Relief  
+396,N1095,1932.0,N1095,Hope Mission of Carteret County  
+397,N1096,28629.0,N1096,Jones County Disaster Relief Food Pantry  
+398,R1000,2351.4545454545455,R1000,A Place Called Hope  
+399,R1001,776.7,R1001,A Touch From Above Faith Center
+400,R1002,102298.43306818184,R1002,A Touch of the Father's Love Inc
+401,R1003,11310.545454545454,R1003,Abundant Life Ministries  
+402,R1004,32908.27727272727,R1004,ADLA Inc  
+403,R1005,292.8,R1005,Adopted Agencies  
+404,R1006,3267.9545454545455,R1006,Adult Day Health Activity Center
+405,R1007,25916.4,R1007,Albemarle Food Bank  
+406,R1008,96.33333333333333,R1008,Alice Aycock Poe Center of Health Education
+407,R1009,1722.25,R1009,SFSP - All About Us Kids  
+408,R1010,4756.530000000001,R1010,Alliance of AIDS Services Carolina/Wake
+409,R1011,624.695652173913,R1011,An Elegant Affair  
+410,R1012,17294.798333333332,R1012,Angier Area Food Pantry  
+411,R1013,1553.2941176470588,R1013,Apex UMC Feed The Kids
+412,R1014,12026.125,R1014,Apostolic Faith Church   
+413,R1019,391.8,R1019,KC - AventWest at Avent Ferry  
+414,R1020,5988.196363636364,R1020,Family Food Basket  
+415,R1021,1269.036231884058,R1021, Baptist Grove  
+416,R1022,491.0952380952381,R1022,CSFP - Barton Apartments  
+417,R1023,2054.1428571428573,R1023,CSFP - Becker Manor  
+418,R1024,7655.743750000001,R1024,Benson Area Ministerial Association
+419,R1026,4168.166666666667,R1026,Bethlehem Baptist Church  
+420,R1029,8758.391304347826,R1029,Blood of the Lamb Church  
+421,R1030,29828.0,R1030,Blue Ridge Area Food Bank  
+422,R1031,859.5,R1031,SFSP- Boys & Girls Club Tar  
+423,R1032,18759.25,R1032,Bread Basket/Sanford Soup Kitchen
+424,R1033,9761.837916666667,R1033,Bread of Life Ministries of Sanford
+425,R1034,5047.916666666667,R1034,CSFP - Broad Inc  
+426,R1035,3075.554761904762,R1035,CSFP - Brooks Ave  
+427,R1036,5192.466666666667,R1036,Brown Bag Ministry  
+428,R1037,17644.083333333332,R1037,Building 323  
+429,R1038,542.0,R1038,Burning Bush Ministries Inc  
+430,R1039,14058.532173913043,R1039,By Faith Church  
+431,R1040,224.5,R1040,SFSP - Camp I Can  
+432,R1041,16086.916666666666,R1041,Capital Pentacostal Church  
+433,R1042,1422.4166666666667,R1042,CSFP - Capital Towers  
+434,R1044,30347.633804347828,R1044,"Care and Share, Inc.  "
+435,R1047,12230.3,R1047,Cathedral De Jesus  
+436,R1048,101181.12541666666,R1048,Catholic Parish Outreach  
+437,R1050,245.6,R1050,Centennial Campus Middle School PTSA
+438,R1052,11626.95,R1052,Changing Hearts Deliverance  
+439,R1053,257.3333333333333,R1053,CSFP - Chapel Ridge Manor Apts  
+440,R1054,3766.611856162843,R1054,Chatham County Group Homes READD Center  
+441,R1056,19530.166666666664,R1056,Christ Community United Methodist Church
+442,R1058,9785.875,R1058,Christian Faith Ministries  
+443,R1059,465.54545454545456,R1059,Christian Life Home  
+444,R1060,56642.154204545455,R1060,Christians United Outreach Ctr  
+445,R1061,4926.125,R1061,Church Of God Of Prophecy Raleigh
+446,R1062,10743.5,R1062,Church of God-Sermon del Monte  
+447,R1063,1515.5454545454545,R1063,Church on the Rise  
+448,R1064,13102.333333333334,R1064,City Harvest Food Bank of NYC  
+449,R1065,550.0,R1065,SFSP - City of Goldsboro - WA  
+450,R1066,12251.666666666666,R1066,Clayton Area Ministries  
+451,R1068,23003.35,R1068,Clinton (St. Stephens Church)  
+452,R1069,1640.157894736842,R1069,Coats Baptist Church  
+453,R1070,15083.5,R1070,Coats COGOP Grass Roots Outreach & Worship
+454,R1071,884.0,R1071,CSFP - Colony Woods  
+455,R1072,290.0,R1072,KC - Community Enrichment  
+456,R1073,105152.96215909091,R1073,Community Helpers Service Center Inc
+457,R1074,15580.041666666666,R1074,Community of Hope Ministries  
+458,R1075,29452.007916666666,R1075,Comunidad Cristiana Hosanna  
+459,R1076,3170.8,R1076,Concerned Citizens Of Tillery  
+460,R1077,11584.968260869566,R1077,Corinth United  
+461,R1078,3003.4583333333335,R1078,Covenant Life Church  
+462,R1079,390.5,R1079,Crabtree Valley Baptist Church  
+463,R1082,4560.214285714285,R1082,WPP - Cummins Engine Plant RM  
+464,R1083,1318.6666666666667,R1083,Deliverance Church  
+465,R1086,34287.2,R1086,Direct Dist. -- Duplin County  
+466,R1088,47837.94736842105,R1088,CSFP - Direct Dist. - Wake Co  
+467,R1089,118822.0,R1089,Direct Dist. -- Wayne County  
+468,R1091,4652.333333333333,R1091,Direct Distr - Franklin County  
+469,R1092,21908.733333333334,R1092,Direct Distr - Harnett County  
+470,R1093,7368.0,R1093,CSFP - Direct Distr - Inborden  
+471,R1096,18878.25,R1096,Direct Distr- Edgecombe County  
+472,R1097,28000.0,R1097,CSFP - Direct Distr Halifax Co  
+473,R1098,7614.5,R1098,Direct Distr - Johnston County  
+474,R1099,16842.454545454544,R1099,Direct Distr. - Halifax County  
+475,R1101,33449.57142857143,R1101,Direct Dist. -- NASH County  
+476,R1102,8125.0,R1102,CKC - Diversity Nurtures  
+477,R1103,1262.695652173913,R1103,Dorcas Ministries Christian Community In Action
+478,R1104,321.0,R1104,SFSP - Dream Center  
+479,R1105,631.0,R1105,SFSP - Dunn Police Athletic  
+480,R1106,21349.090909090908,R1106,Duplin - Disaster Relief  
+481,R1107,5948.355555555556,R1107,"Duplin Christian Outreach, Faith by Grace Ministries"
+482,R1109,26614.714285714286,R1109,East Duplin Christian Outreach  
+483,R1112,6593.0952380952385,R1112,Ebenezer Missionary Baptist  
+484,R1114,25632.535833333335,R1114,Edgerton Memorial UMC  
+485,R1116,5008.0,R1116,Emerge Ministries  
+486,R1117,34628.51833333333,R1117,Emmanuel Hispanic Pentecostal Holiness Church
+487,R1120,555.6190476190476,R1120,CSFP - Fair Meadows Apts  
+488,R1121,3048.200909090909,R1121,Faith In Action  
+489,R1122,6775.670416666667,R1122,Faith Missionary Baptist Church
+490,R1123,1323.9130434782608,R1123,Faith Tabernacle Ministry  
+491,R1124,336.0,R1124,Family Circle Elder Care  
+492,R1125,4914.083333333333,R1125,Fathers Forever  
+493,R1126,34692.0,R1126,Feeding Tampa Bay  
+494,R1127,1339.625,R1127,Fellowship Home of Raleigh  
+495,R1128,764.0,R1128,Fellowship of Christ Church  
+496,R1129,672.7619047619048,R1129,Fidelity Baptist Church   
+497,R1130,2235.82,R1130,First Assembly of God Church Goldsboro
+498,R1131,17416.40519607843,R1131,First Baptist Church of Smithfield  
+499,R1132,491.6666666666667,R1132,KC - First Baptist Church  
+500,R1133,31589.27900362319,R1133,First Cosmopolitan MBC  
+501,R1134,6302.631578947368,R1134,First Missionary Wilson's Mill Mobile
+502,R1135,1063.9545454545455,R1135,First Pentecostal Power  
+503,R1136,668.6363636363636,R1136,BP - First Presbyterian Church  
+504,R1137,4465.533333333333,R1137,BP - First United  
+505,R1138,3922.1428571428573,R1138,CSFP - First Worldwide  
+506,R1139,7288.8421052631575,R1139,Fishers of Men Food Bank  
+507,R1140,390.0,R1140,Flynn Home Of Goldsboro  
+508,R1141,31882.0,R1141,Food Bank of Central Louisiana  
+509,R1144,8237.238095238095,R1144,Food Bank of NC Direct Distr  
+510,R1145,5115.0,R1145,Food Bank Of Northwest NC  
+511,R1146,70098.0,R1146,Foodbank Of Southeastern VA  
+512,R1147,23470.0,R1147,Foodlady  
+513,R1150,4822.446,R1150,Fountain of Hope  
+514,R1152,902.2,R1152,"Free Will Baptist Children's Home, Inc.  "
+515,R1153,24347.375,R1153,"Christ Christian Center Holy Church, Inc. Green Elementary School"
+516,R1154,885.6666666666666,R1154,CSFP - Friends of Chavis  
+517,R1155,560.8333333333334,R1155,SP - Fuquay Varina Middle  
+518,R1156,29375.993333333332,R1156,Fuquay-Varina Emergency Food Pantry
+519,R1160,5009.333333333334,R1160,CSFP -Gethsemane 7th Day  
+520,R1161,14277.089444444444,R1161,Gibraltar the Remnant Church   
+521,R1162,13831.4625,R1162,Glad Tiding Church Inc DUMA
+522,R1163,49828.25,R1163,Glad Tidings Gospel Church  
+523,R1164,1116.047619047619,R1164,Glory Cloud & Fire Ministries  
+524,R1165,3827.9285714285716,R1165,God's Vision Ministries  
+525,R1166,36350.0,R1166,Golden Harvest Food Bank  
+526,R1167,1090.0,R1167,SFSP - Goldsboro YMCA Preschl  
+527,R1168,71442.78833333333,R1168,Good News Buenas Nuevas International Ministries
+528,R1170,28341.278260869563,R1170,Greater Joy Missionary Baptist Church
+529,R1175,3329.5,R1175,Grow Our Kids  
+530,R1177,2829.6666666666665,R1177,CSFP - Haliwa Saponi Indian  
+531,R1178,2534.714285714286,R1178,Harbor Inc  
+532,R1179,40577.370833333334,R1179,Harnett Food Pantry  
+533,R1180,15522.0,R1180,Harvest Hope Food Bank  
+534,R1181,2213.5555555555557,R1181,Harvest Word Ministry  
+535,R1182,730.7,R1182,Haven House (Wrenn) Crisis & Homeless Services
+536,R1183,5594.073913043479,R1183,Healing Transitions Men's Center
+537,R1184,1517.6200000000001,R1184,Healing With CAARE  
+538,R1185,666.1904761904761,R1185,Hearts For Children Intl New Light Baptist Church
+539,R1186,24865.507246376812,R1186,Heavens Gate Ministry  
+540,R1187,8984.454545454546,R1187,Helping Our People Elevate Inc  
+541,R1188,571.625,R1188,Highway Restoration Ministries  
+542,R1190,4178.916666666666,R1190,His Daily Bread Community  
+543,R1191,399.15384615384613,R1191,WPP - Hodge Road Elementary  
+544,R1192,10233.426818181819,R1192,Hollister Reach  
+545,R1193,7975.083333333333,R1193,Holly Springs Food Cupboard  
+546,R1194,384.75,R1194,KC - Homework Haven  
+547,R1195,54339.99708333333,R1195,House of Fordham/Goldsboro  
+548,R1197,11777.91304347826,R1197,Iglesia Bethel  
+549,R1198,22070.484166666665,R1198,Iglesia De Dios Pentecostal  
+550,R1199,26702.150416666667,R1199,Iglesia La Luz Del Evengelio La Luz del Evangelio
+551,R1200,35169.371250000004,R1200,Iglesia Pentecostal Jesucristo El Rey de Gloria
+552,R1201,16103.666666666666,R1201,Immanuel Temple SDA Church  
+553,R1202,20342.291666666668,R1202,CSFP - Inborden School  
+554,R1203,538.0,R1203,Interact  
+555,R1204,6693.636948621554,R1204,CSFP - Inter-Community Council  
+556,R1205,21016.85714285714,R1205,Interfaith Food Shuttle  
+557,R1206,25719.166666666668,R1206,Internal TEFAP Agency  
+558,R1208,29896.583333333332,R1208,Jackson Grove Bible Church of God God
+559,R1209,6753.125,R1209,Jacob House/Rachel House  
+560,R1210,8985.0,R1210,
+561,R1211,12270.21,R1211,Juniper Level  
+562,R1212,2232.9444444444443,R1212,Kenly Area Ministries  
+563,R1214,375.5,R1214,Kingdom Ministry  
+564,R1215,7362.521739130435,R1215,Lakeside Lutheran Church   
+565,R1216,505.89473684210526,R1216,CSFP - Laurel Glen  
+566,R1217,3471.5833333333335,R1217,Lifeline Christian Center  
+567,R1218,18679.67125,R1218,Lifeline Outreach/Henderson  
+568,R1219,34120.791666666664,R1219,"Light House Community Center Development Center, Inc."
+569,R1220,1003.0,R1220,
+570,R1221,41065.375,R1221,Loaves and Fishes Ministries Warren
+571,R1222,4074.1666666666665,R1222,London Missionary Baptist  
+572,R1224,2182.425652173913,R1224,Love Wins  
+573,R1225,45052.125,R1225,Lowcountry Food Bank  
+574,R1226,496.9375,R1226,Lutheran Family Services  
+575,R1227,203.125,R1227,Macedonia New Life Church
+576,R1228,48137.166666666664,R1228,Manna Food Bank  
+577,R1232,41029.6325,R1232,Milagros y Maravillas de Dios  
+578,R1233,5376.604166666667,R1233,Millbrook United Methodist Church
+579,R1234,6375.18625,R1234,Ministerios Bethel Inc  
+580,R1236,2083.3636363636365,R1236,Mission Raleigh of Mt Vernon  
+581,R1238,5307.521739130435,R1238,SFSP - Mt Pleasant Baptist Ch  
+582,R1240,20348.15,R1240,Mt. Zion Community Church Warsaw NC Inc
+583,R1242,3990.0,R1242,My Father's House  
+584,R1244,8677.08695652174,R1244,N.C.A. Philip Randolph Inst. Mary's Pantry
+585,R1246,21001.166666666668,R1246,NC Love In Action (LIA)  
+586,R1247,904.8,R1247,WPP -NE Wake Backpack Buddies  
+587,R1248,1087.6,R1248,SP - Needham Broughton High  
+588,R1249,2702.75,R1249,Nelson Chapel Baptist Church Inc
+589,R1250,9175.892857142857,R1250,New Beginnings Deliverance  
+590,R1251,24137.39516304348,R1251,New Bethel Baptist Church  
+591,R1252,9342.031060606061,R1252,New Bethel Christian Church  
+592,R1253,21077.78304347826,R1253,New Birth Holiness Church  
+593,R1254,412.77777777777777,R1254,New Canaan Covenant Church  
+594,R1255,31505.708333333332,R1255,New Christian Food Pantry &  
+595,R1257,4222.5,R1257,New Fellowship Ministry  
+596,R1258,7906.579583333333,R1258,New Freedom Christian Fellowship
+597,R1259,25522.4445,R1259,New Jerusalem Pentecostal  
+598,R1260,11948.417916666667,R1260,New Life Deliverance Ministry CDC
+599,R1261,11485.444444444445,R1261,New Life Fellowship Church  
+600,R1262,15686.833333333334,R1262,New Life Outreach Ministry  
+601,R1263,13072.76,R1263,New Providence Missionary Baptist Church
+602,R1264,6171.416666666667,R1264,New St Delight United  
+603,R1265,9091.0,R1265,New Vision Christian Church  
+604,R1266,10920.116666666667,R1266,North Carolina Poverty Coalition Inc
+605,R1267,11272.5,R1267,North Haven Ministries Inc  
+606,R1268,38376.0,R1268,Northern Illinois Food Bank  
+607,R1270,3825.25,R1270,Oak Level Christian Church  
+608,R1271,628.7619047619048,R1271,CSFP - Oakland Village  
+609,R1273,2993.0,R1273,OIC Rocky Mount  
+610,R1274,34941.125,R1274,Oklahoma City Food Bank  
+611,R1275,695.3684210526316,R1275,CSFP - Old Towne Village  
+612,R1276,8966.473684210527,R1276,O'Neal Revival Tabernacle  
+613,R1277,3272.5,R1277,Open Door Baptist Church  
+614,R1278,318.25,R1278,Open Door Community Center  
+615,R1279,1740.0,R1279,Open Door Ministry of Faith  
+616,R1280,763.0909090909091,R1280,Our Daily Bread/Franklinton  
+617,R1281,1279.75,R1281,Our Lady of Perpetual Church Loaves and Fishes Nash County
+618,R1282,1506.5238095238096,R1282,Parkview Manor Hayes Barton UMC
+619,R1283,790.952380952381,R1283,CSFP - Parkview Manor  
+620,R1286,2426.9565217391305,R1286,Pet Distribution  
+621,R1287,39627.917083333334,R1287,Pete Norris Ministries Inc Harvest Fellowship Church
+622,R1288,24991.189166666667,R1288,Pleasant Grove Missionary Baptist Church
+623,R1289,792.5,R1289,Pleasant Union Christian Church
+624,R1290,49985.219734848484,R1290,Poplar Springs Christian Church
+625,R1291,6436.208333333333,R1291,Potter's Wheel Ministries  
+626,R1292,1624.1764705882354,R1292,Power of Praise Tabernacle of Deliverance Ministries Inc
+627,R1294,16715.79851449275,R1294,Progressive Teamwork Outreach  
+628,R1295,1013.5238095238095,R1295,Pullen Memorial  
+629,R1296,321.45,R1296,CSFP - Quankey Hill  
+630,R1297,2558.5555555555557,R1297,Demonstration Kitchen  
+631,R1298,563.7142857142857,R1298,Raleigh Church of Christ  
+632,R1299,19677.375,R1299,Raleigh Dream Center  
+633,R1300,306.375,R1300,CSFP - Raleigh Garden Apts.  
+634,R1301,249.08333333333334,R1301,"Raleigh Housing Fund, Inc Emmaus House"
+635,R1302,508.6666666666667,R1302,SFSP - Raleigh PD Camps  
+636,R1303,3021.214285714286,R1303,Raleigh Rescue Mission  
+637,R1304,9889.458333333334,R1304,Raleigh Vineyard Christian  
+638,R1306,763.5,R1306,Rebuilding Broken Places  
+639,R1307,763.625,R1307,Recovery Connections Community  
+640,R1308,38929.57124999999,R1308,Recruiters for Christ Church Inc
+641,R1310,1210.0,R1310,Refreshing Springs Church  
+642,R1311,13401.791666666666,R1311,Renewal Place  
+643,R1312,518.6666666666666,R1312,Renu Life  
+644,R1314,1500.1,R1314,Resources For Seniors - Departure Drive Adult Care
+645,R1315,1851.4815000000003,R1315,Revelation Missionary Baptist Church
+646,R1316,6668.25,R1316,Revival Deliverance Ctr Inc All Nations Deliverance
+647,R1317,264.95,R1317,CSFP - Rich Park Apartments  
+648,R1318,10132.583333333334,R1318,Richland Creek Community Church
+649,R1319,7283.238095238095,R1319,Riley Hill Baptist Church  
+650,R1320,801.0952380952381,R1320,CSFP  River Towne Manor  
+651,R1322,606.125,R1322,Roanoke Valley Seventh-Day  
+652,R1323,34498.5,R1323,Rock Ministry Inc  
+653,R1325,357.26666666666665,R1325,WPP - Rogers Lane Elementary  
+654,R1326,817.5,R1326,SP - Rolesville Middle School  
+655,R1327,880.4545454545455,R1327,Safe Space Inc  
+656,R1328,437.25,R1328,SFSP - Salvation Army B&GC  
+657,R1330,0.0,R1330,Salvation Army - Goldsboro  
+658,R1331,4412.724999999999,R1331,Salvation Army-Raleigh  
+659,R1332,17366.80769230769,R1332,Salvation Army-Rocky Mount  
+660,R1333,2492.595,R1333,Salvation Army-Smithfield  
+661,R1334,10883.842857142858,R1334,Samaritan's Shelf West Clayton Church of God
+662,R1335,26311.0,R1335,Sampson - Disaster Relief  
+663,R1338,765.9090909090909,R1338,Save the Family Church Ministries Inc
+664,R1339,3548.913043478261,R1339,CSFP - Scotland Neck Snr. Cen.  
+665,R1340,61727.25,R1340,Second Harvest Central Florida  
+666,R1341,21136.428571428572,R1341,Second Harvest FB of S.E. NC  
+667,R1342,69487.5,R1342,Second Harvest Food Bank of  
+668,R1344,27883.333333333332,R1344,Second Harvest Metrolina  
+669,R1346,35500.666666666664,R1346,Second Harvest NE Tenn.  
+670,R1347,25695.0,R1347,SH Food Bank of South Georgia  
+671,R1348,20382.07875,R1348,Shiloh Christian Food Pantry  
+672,R1349,4645.6875,R1349,Showers of Blessing Community Church
+673,R1353,11799.105263157895,R1353,Spreading Seeds Inc  
+674,R1354,5932.090909090909,R1354,St. Andrews Chrisitan Church  
+675,R1355,11412.291666666666,R1355,ST. ANN CATHOLIC CHURCH FOOD PANTRY (RAMP)
+676,R1356,2388.425,R1356,St. Anna Freewill Baptist Church Harvest Ministry
+677,R1358,257.5,R1358,SFSP - St Hope  
+678,R1359,15010.187391304347,R1359,St. James Missionary Baptist Church
+679,R1360,5312.273809523809,R1360,St. Mark Church of Christ  
+680,R1361,4268.25,R1361,St. Mary A.M.E. Church Arnetta B Jones Missionary S
+681,R1362,13948.607391304347,R1362,St. Paul Missionary Baptist Church
+682,R1363,21456.125,R1363,Stanley Chapel FWB Church  
+683,R1364,6056.615714285714,R1364,State St. Community Church Church of God of Prophecy
+684,R1365,3828.7894736842104,R1365,The Stone Chapel  
+685,R1366,2024.5,R1366,Straightway Temple  
+686,R1367,587.1538461538462,R1367,Sure Promise Chritian Church  
+687,R1369,29390.877954545456,R1369,Tar River Baptist Association  
+688,R1370,8938.04347826087,R1370,Temple Emmanuel Gospel Truth of Apostolic Faith
+689,R1371,10131.5,R1371,Temple of New Beginning  
+690,R1372,1102.1052631578948,R1372,Temple of Pentecost  
+691,R1376,37422.083333333336,R1376,The Jesus House of Prayer  
+692,R1377,6011.975416666667,R1377,The Light of Life Ministry  
+693,R1378,9670.75,R1378,The Original Tabernacle of Prayer Prayer For All People
+694,R1379,30693.463333333333,R1379,The Point Care Center  
+695,R1380,3440.595416666667,R1380,The Rising Sun Church of Christ  
+696,R1381,37809.895,R1381,The Ship Outreach & Comm Cntr Bread of Life
+697,R1383,112.33333333333333,R1383,The Wright's Center Inc  
+698,R1384,23818.665,R1384,Tri-Area Ministry  
+699,R1385,1560.4782608695652,R1385,Trinity United Faith Center  
+700,R1386,5279.379166666667,R1386,Truth Foundational Ministries  
+701,R1388,38695.0,R1388,Community Food Bank of Eastern Oklahoma  
+702,R1389,7060.375,R1389,TWFC Food-4-Life Word of Faith
+703,R1390,24968.208333333332,R1390,UMOJA Central SDA Church  
+704,R1391,6126.0,R1391,United Community Ministries  
+705,R1392,77.0,R1392,SFSP-United Fellowship  
+706,R1393,2189.3478260869565,R1393,United Solid Rock Faith Ministries
+707,R1395,30220.155654761904,R1395,Upper Room Church of God  in Christ
+708,R1396,28405.80125,R1396,Urban Ministries of Wake County  
+709,R1397,2789.1304347826085,R1397,Vaughn's Chapel MB Church  
+710,R1398,10789.473684210527,R1398,Victory Faith Church  
+711,R1399,724.0909090909091,R1399,Victory Gospel Chapel Spiritual Growth Center
+712,R1402,13953.458333333334,R1402,Wake Chapel Church  
+713,R1403,586.0,R1403,SFSP - Wake Co. Public Health  
+714,R1404,745.4545454545455,R1404,SFSP - Wake Co 4-H  
+715,R1405,146.33333333333334,R1405,Wake Technical Institute  
+716,R1406,6063.552500000001,R1406,Wallace Church of God Food Pantry
+717,R1407,44000.0,R1407,Warren County Direct  
+718,R1409,883.6842105263158,R1409,Warren Street Group Home  
+719,R1410,8968.238095238095,R1410,Warsaw Baptist Church  
+720,R1411,184.9090909090909,R1411,Warsaw United Methodist  
+721,R1412,16069.833333333334,R1412,Wayne - Disaster Relief  
+722,R1414,624.0952380952381,R1414,CSFP - Weatherstone Springs  
+723,R1415,896.0,R1415,Weldon City Schools  
+724,R1416,1950.5652173913043,R1416,Wendell United Methodist Church
+725,R1417,4595.583333333333,R1417,SP - West Johnston H.S. Pantry  
+726,R1418,16504.142536231884,R1418,Western Wake Crisis Ministry  
+727,R1419,37717.76375,R1419,White Oak Foundation  
+728,R1420,1877.75,R1420,
+729,R1421,522.0,R1421,CSFP - Winter's Haven  
+730,R1422,55679.833333333336,R1422,With Love From Jesus Ministry  
+731,R1423,10784.391304347826,R1423,Woods Chapel UAFWB Church  
+732,R1424,104451.24916666666,R1424,Word of Faith Ministries Food Program
+733,R1425,13155.4275,R1425,Word of God Fellowship  
+734,R1427,5100.875,R1427,Zebulon United Methodist Church
+735,R1428,2245.1363636363635,R1428,Zina Christian Center  
+736,R1431,1452.0,R1431,SFSP- Duplin County Schools  
+737,R1432,624.0,R1432,SFSP- Duplinn County Schools  
+738,R1433,742.2,R1433,SFSP- East Wake Leadership  
+739,R1434,205.5,R1434,SFSP- Garden Street Apartments  
+740,R1435,874.0,R1435,SFSP- Garland First Baptist  
+741,R1437,804.6,R1437,SFSP- Go Hard Institute  
+742,R1438,164.0,R1438,SFSP- Just for You  
+743,R1440,247.0,R1440,SFSP- Lexington on the  
+744,R1443,279.5,R1443,SFSP-Olive Branch Baptist  
+745,R1451,131.5,R1451,SFSP- YM4C Kids  
+746,R1462,1098.6,R1462,The Green Chair Project  
+747,R1464,838.5625,R1464,CSFP - Lincoln Heights  
+748,R1466,2025.0,R1466,Strait Gate Christian Felowship  
+749,R1467,4343.615384615385,R1467,Building Bridges Without Limits  
+750,R1468,65043.0,R1468,Mid-Atlantic Regional Co-op  
+751,R1469,223.0,R1469,
+752,R1470,10428.0,R1470,Weld Food Bank  
+753,R1471,700.0,R1471,Food Bank for Larimer Couty  
+754,R1472,18258.0,R1472,Care and Share Food Bank  
+755,R1473,665.0,R1473,Community Food Share  
+756,R1474,20489.0,R1474,Arkansas Food Bank  
+757,R1476,1071.142857142857,R1476,Builder's Inc.  
+758,R1477,34466.0,R1477,SH Food Bank of East Central Indiana  
+759,R1478,31781.0,R1478,Gleaners Community Food Bank  
+760,R1480,69206.0,R1480,Dare to Care Food Bank Inc  
+761,R1481,35296.0,R1481,Second Harvest Food Bank of Central Indiana  
+762,R1482,3695.55,R1482,Glory Tabernacle International Ministries  
+763,R1484,691.4,R1484,SP - Inborden Elementary/Enfield Middle School  
+764,R1486,1410.0,R1486,Franklin - Disaster Relief  
+765,R1487,3118.4285714285716,R1487,J-Jireh Services  
+766,R1488,6878.2,R1488,Wake County - Disaster Relief  
+767,R1489,22241.0,R1489,Robeson County - Disaster Relief Ral.  
+768,R1490,475.3333333333333,R1490,SP -Walnut Creek Elementary   
+769,R1491,410.5,R1491,SP - Athens Drive Magnet High School  
+770,R1492,3154.5,R1492,Rex Hospital  
+771,R1493,10779.263157894737,R1493,Our Lady of the Rosary Food Pantry  
+772,R1494,7287.29625,R1494,Salavation Army  
+773,R1503,15000.00142857143,R1503,Solid Rock Ministry International Inc.  
+774,R1505,2951.3333333333335,R1505,Christian Life Fellowship Food Pantry  
+775,R1506,474.0,R1506,NC Harm Reduction  
+776,R1509,228.0,R1509,Jewish Family Services  
+777,R1510,3543.5,R1510,North Raleigh Ministries  
+778,R1511,3446.6666666666665,R1511,Princeton United Methodist Food Pantry  
+779,R1512,279213.5,R1512,Three In One Family Center  
+780,R1513,2734.5,R1513,Feed the Pack  
+781,R1514,5222.5,R1514,REACH Our Communities-Cathedral of Love Ministries  
+782,S1000,662.25,S1000,SFSP - Aberdeen Recreation  
+783,S1005,27601.555555555555,S1005,Avery's Chapel Church  
+784,S1006,17740.24666666667,S1006,Beavers Creek Church  
+785,S1007,8138.478636363637,S1007,Bethesda Presbyterian Church  
+786,S1008,871.8636363636364,S1008,"Bethesda, Inc  "
+787,S1009,45109.191666666666,S1009,Blue Angel Outreach Word of Truth Center
+788,S1010,3298.285714285714,S1010,CKC - BGC Sandhills Aberdeen  
+789,S1011,660.4,S1011,KC - Boys & Girls Club Sanford  
+790,S1012,3174.4117647058824,S1012,We Care Center  
+791,S1013,2491.1666666666665,S1013,Cameron Boys Camp Baptist Children's Home of NC
+792,S1014,12996.6275,S1014,Carthage United Methodist Church
+793,S1015,8897.868333333334,S1015,Christ Memorial Church  
+794,S1016,3032.2083333333335,S1016,Christian Mission Center of Moore County
+795,S1017,20745.418405797103,S1017,Church Community Services of Scotland County
+796,S1018,7924.866666666667,S1018,WPP - BackPack Pals Sandhills  
+797,S1019,1372.888888888889,S1019,You Can Learn Center Gospel Lighthouse
+798,S1020,1293.8333333333333,S1020,Church God of Prophecy- Norman  
+799,S1022,1612.7272727272727,S1022,Community Baptist Church  
+800,S1024,19191.0,S1024,DD - Sanford Housing Authority  
+801,S1025,16757.666666666668,S1025,Direct Distr. -- Lee County  
+802,S1026,5860.833333333333,S1026,Direct Distr. -- Moore County  
+803,S1027,6253.0,S1027,Direct Distr. -- Richmond Cty.  
+804,S1028,8926.666666666666,S1028,Direct Distr. -- Scotland Cty.  
+805,S1029,-1386.0,S1029,Disaster Relief  
+806,S1031,648.3333333333334,S1031,Eagle Springs Baptist Church  
+807,S1032,5844.485507246377,S1032,Faith Assembly Church  
+808,S1033,2149.875,S1033,Faith on Fire Deliverance  
+809,S1034,96.83333333333333,S1034,Family Promise of Moore County  
+810,S1035,2123.4666666666667,S1035,First Missionary Baptist  
+811,S1036,652.7777777777778,S1036,First Presbyterian Church  
+812,S1037,403.0,S1037,First United Methodist Church  
+813,S1038,135.0,S1038,FirstHealth Hospice  
+814,S1039,605.8,S1039,Foundation of Jesus Christ  
+815,S1040,417.25,S1040,Friend to Friend  
+816,S1041,4590.142857142857,S1041,Friendship One Accord  
+817,S1042,5044.714285714285,S1042,Greater Diggs AME Zion Church  
+818,S1044,28954.955,S1044,Helping Hands of Hamlet  
+819,S1045,1884.0833333333333,S1045,High Falls United Methodist Church
+820,S1046,236.75,S1046,SFSP - Hoffman Enrichment  
+821,S1048,546.5,S1048,Jerusalem United Methodist  
+822,S1049,4300.706666666666,S1049,Jesus Is Justice Mission Inc  
+823,S1050,31375.980555555558,S1050,King's Gate International  
+824,S1051,28422.2625,S1051,Laurinburg Hope in Christ Ministry
+825,S1052,8634.05,S1052,Leak Street  
+826,S1053,1248.0,S1053,Linden Lodge Foundation Inc  
+827,S1055,33218.43240196079,S1055,"Mineral Springs Improvement Council, Inc"
+828,S1056,2938.5555555555557,S1056,Mission Ministries  
+829,S1057,4062.033389636679,S1057,Monarch- Pence Place  
+830,S1058,8215.375,S1058,Montgomery Churches in Action Biscoe Food Pantry
+831,S1059,3464.6521739130435,S1059,Mt. Zion UCC/Rockingham  
+832,S1060,51210.259090909094,S1060,CSFP - New Covenant Chr. Cen  
+833,S1061,644.4,S1061,New Horizons  
+834,S1063,4763.869565217391,S1063,New Zion Ame Zion Church  
+835,S1064,497.0,S1064,Occoneechee Council  
+836,S1065,24688.629166666666,S1065,Our Daily Bread Christian Food Ministry
+837,S1066,2448.015,S1066,Outreach for Jesus  
+838,S1067,8367.875,S1067,Page Soup Kitchen  
+839,S1068,3024.0833333333335,S1068,Pinebluff United Methodist Church and Pinebluff Lions Club
+840,S1069,515.6666666666666,S1069,Port Human Services  
+841,S1070,16097.69625,S1070,Prayer and Faith Temple Church Community Food Pantry
+842,S1071,4725.166666666667,S1071,Project In As Much  
+843,S1072,23605.49375,S1072,Restoring Hope Center  
+844,S1073,2550.2379166666665,S1073,Right Start  
+845,S1074,7599.079166666666,S1074,Robbins Area Christian Ministries
+846,S1075,15251.642083333332,S1075,Partners In Ministry After-School Program
+847,S1076,574.4166666666667,S1076,Rockingham Spanish SDA Church  
+848,S1077,3796.75,S1077,S.A.F.E. of Harnett County  
+849,S1078,5989.738511904762,S1078,Salvation Army of Lee County  
+850,S1079,2667.25,S1079,Sandhills Moore Coalition for Human Care Inc
+851,S1080,1986.9855072463768,S1080,Sandhills Children's Center  
+852,S1081,7834.25,S1081,Sandhills Community Action  
+853,S1082,3710.415833333334,S1082,Sandhills UCC  
+854,S1086,760.2105263157895,S1086,Meals on Wheels  Meals on Wheels Sandhills
+855,S1087,3008.4462499999995,S1087,Southern Mission Ministries  
+856,S1088,4034.8333333333335,S1088,Southern Pines UMC  
+857,S1090,1320.75,S1090,St. Anthony's  Catholic Church We Care
+858,S1091,6563.174603174603,S1091,St. John's Emergency Food & Shelter Program
+859,S1092,7749.968181818182,S1092,Saint Luke United Methodist Church
+860,S1093,2158.25,S1093,St. Paul Lutheran  
+861,S1094,-554.0,S1094,SFSP -  Northview Harvest Min  
+862,S1095,37273.34625,S1095,Tabernacle Full Gospel  
+863,S1096,1119.857142857143,S1096,The Worship Center  
+864,S1097,2850.095238095238,S1097,Unionville Missionary Baptist Church
+865,S1098,326.0,S1098,Village Chapel Church  
+866,S1100,2282.9166666666665,S1100,Wesleyan Methodist Church  
+867,S1101,12833.484583333333,S1101,West End United Methodist Church Food Pantry
+868,S1106,890.5,S1106,SFSP-Nothern Moore Family  
+869,S1111,34423.0,S1111,Scotland County - Disaster Direct Distribution  
+870,S1113,6569.066666666667,S1113,Vass Community Food Pantry  
+871,S1114,468.0,S1114,Central Carolina Community College   
+872,S1115,1263.0,S1115,Outreach Mission Inc. Men's Shelter  
+873,S1116,78092.71428571429,S1116,Place of Grace  
+874,S1117,7200.0,S1117,"Haven in Lee County, Inc.   "
+875,W1000,8492.666666666666,W1000,BATH  
+876,W1001,5831.125,W1001,Believers Home Fellowship  
+877,W1003,8186.053333333333,W1003,Bogue Community Citizens Association
+878,W1004,8048.958333333334,W1004,Bread for Life  Saint Mark Catholic Church
+879,W1005,1683.2100840336134,W1005,Brigade Boys and Girl's Club  
+880,W1007,50881.71666666667,W1007,Brunswick Family Assistance  
+881,W1008,18187.666666666664,W1008,Brunswick Islands Baptist Church  Church
+882,W1009,1454.767857142857,W1009,Brunswick Senior Resources Inc
+883,W1010,50503.58333333333,W1010,Gateway Community Church  
+884,W1012,1940.469696969697,W1012,Cape Fear Christian Church  
+885,W1013,5190.0192307692305,W1013,Wesleyan Chapel UMC  
+886,W1014,623.0,W1014,WPP-Cape Fear Middle School  
+887,W1016,3913.595238095238,W1016,Catholic Charities  
+888,W1019,200.5,W1019,Coastal Horizons  
+889,W1020,1038.111111111111,W1020,Communities in Schools of Cape Fear Fear
+890,W1021,6166.409090909091,W1021,Boys & Girls Clubs of Southeastern NC   
+891,W1022,23978.124401913876,W1022,Countywide CDC  
+892,W1023,1261.0416666666667,W1023,CSFP - Matthew 25  
+893,W1024,39934.9,W1024,Direct Dist. -- Brunswick  
+894,W1025,44523.624242424245,W1025,Direct Dist. -- New Hanover  
+895,W1026,33296.0,W1026,Direct Distr. -- Columbus  
+896,W1027,27592.076923076922,W1027,Direct Distr. -- Pender  
+897,W1028,1296.0555555555557,W1028,Easter Seals UCP NC & VA  
+898,W1029,56355.02208333334,W1029,Facts of Life Church  Living God Pillar Ground & Tru
+899,W1030,1637.6666666666667,W1030,Farmers Union Developmental Daycare  
+900,W1031,2125.866666666667,W1031,First Baptist Church Carolina Beach  
+901,W1032,3431.5625,W1032,Lake Waccamaw Food Ministry Waccamaw
+902,W1033,8944.625,W1033,First Baptist Church of Leland  
+903,W1034,59091.26638888889,W1034,First Fruit Ministries  
+904,W1035,1060.5,W1035,First in Families The ARC of NC
+905,W1036,47405.208333333336,W1036,Good Shepherd Center  
+906,W1038,60053.75,W1038,Harvest Table BackPack Program
+907,W1039,7447.295972222222,W1039,Helping Hands St Stanislaus Church
+908,W1040,5732.197647058823,W1040,Hills Chapel Missionary Baptist Church
+909,W1041,14135.856666666667,W1041,House of Mercy Outreach Global River Church
+910,W1042,7544.2016806722695,W1042,Inspirational House of Praise  
+911,W1043,570.0,W1043,KC - The Holmes Movement  
+912,W1044,889.0555555555555,W1044,KC - Wilmington Residential  
+913,W1045,393.0,W1045,Kids Making It Inc  
+914,W1046,122.0,W1046,Lake Waccamaw UMC  
+915,W1047,515.5,W1047,SP - Laney High School Pantry  
+916,W1048,11178.90909090909,W1048,Liberty Ministries  
+917,W1049,89017.38822727272,W1049,Lifesavers Outreach Services Inc
+918,W1050,3034.0,W1050,LINC Inc  
+919,W1051,6076.916666666667,W1051,Living Word Church Community Care & Share
+920,W1052,13977.391304347826,W1052,Livingstones Tabernacle  
+921,W1053,32940.5119047619,W1053,Love of Christ Ministries  
+922,W1054,19131.527777777777,W1054,BP - Matthew's Ministry  
+923,W1055,11806.924898989899,W1055,Men and Women United for Youth and Families
+924,W1056,38511.85143939394,W1056,Mother Hubbard's Cupboard  
+925,W1057,1752.7777777777778,W1057,Mt. Olive AME Church - Helping Hand Food Pantry
+926,W1058,1372.3333333333335,W1058,Myrtle Grove SDA Church   
+927,W1059,321.0,W1059,National Center for Outdoor  
+928,W1061,2903.915294117647,W1061,New Beginnings Community  
+929,W1065,26857.80701754386,W1065,Nourish NC  
+930,W1067,834.8888888888889,W1067,"Pender Adult Services, Inc.  "
+931,W1068,19276.22246212121,W1068,Pender County Christian Services  Backpack Burgaw Elementary
+932,W1069,1816.9166666666665,W1069,Philippians 3: Ministries Inc  
+933,W1070,5403.666666666667,W1070,PORT Health Services Stepping Stone Manor
+934,W1072,13092.899166666666,W1072,Salvation and Deliverance Family Worship Center Church
+935,W1073,22403.5,W1073,Salvation Army - Wilmington  
+936,W1077,781.1666666666666,W1077,SFSP - Washington Chapel Miss.  
+937,W1078,968.5,W1078,SFSP - Wilmington Family  
+938,W1079,34125.02902777778,W1079,BP- Share the Table Inc Faith Harbor
+939,W1080,3127.5,W1080,Shoreline Baptist Church   
+940,W1081,1692.2105263157894,W1081,Sonrise Independent Baptist  
+941,W1082,6093.9673291925465,W1082,South Brunswick Inter-Church Council
+942,W1083,49563.35,W1083,Southport Oak Island InterChur  
+943,W1084,5058.522727272727,W1084,St. Brendans Church  
+944,W1085,8973.004583333333,W1085,St. Joseph Parish Outreach  
+945,W1086,4100.142857142857,W1086,St. Jude's Metropolitan Community Church
+946,W1087,2970.684210526316,W1087,St. Mary Missionary Baptist Amazing Grace Food Pantry
+947,W1088,127012.13612040134,W1088,St. Paul A.M.E. Zion Church  
+948,W1089,3369.780701754386,W1089,St. Peter The Fisherman Church  
+949,W1090,1021.0,W1090,Step up For Soldiers  
+950,W1091,1353.5384615384614,W1091,Straightway Ministries  
+951,W1092,71.92307692307692,W1092,Temple of Israel - Weekend Meals on Wheels
+952,W1093,158.8,W1093,"The Help Center of Federal Point, Inc"
+953,W1094,1277.4886363636365,W1094,Hope Recuperative Care  
+954,W1095,18835.5,W1095,The Lord's Church  
+955,W1096,2508.8947368421054,W1096,The Rock of Wilmington  
+956,W1097,7908.543333333334,W1097,The Sister Isaac Center Basilica Shrine of St. Mary's
+957,W1098,19849.208333333336,W1098,Towncreek Vision Corporation  
+958,W1099,1158.0,W1099,Transformed by the Word Inc  
+959,W1100,13252.227053140097,W1100,Trinity Missionary Baptist Church
+960,W1101,4177.391666666666,W1101,Trinity Tabernacle Full  
+961,W1103,37029.523888888885,W1103,Union Missionary Baptist Church
+962,W1104,7764.8441558441555,W1104,Victory Independent Baptist Church
+963,W1105,72.0,W1105,Vigilant Hope  
+964,W1107,8503.75,W1107,"We Care 4 You Foundation, Inc.  "
+965,W1108,278.85714285714283,W1108,Weekend Meals on Wheels Elks Club Sponsored
+966,W1109,1857.1739130434783,W1109,CSFP - Willard Outreach  
+967,W1110,3385.153846153846,W1110,Solomon Towers  
+968,W1111,219.75,W1111,Wilmington Preparatory Academy Wilmington Ace Charter Inc
+969,W1112,92.0,W1112,Wlmgtn Demonstration Kitchen Food Bank
+970,W1113,7505.192307692308,W1113,Wrightsboro United Methodist Church
+971,W1114,1448.9285714285716,W1114,YWCA - Grandparents Support Network
+972,W1119,84.0,W1119,SFSP- New Born Church of God  
+973,W1120,434.0,W1120,SFSP - Temple Baptist  
+974,W1121,131.0,W1121,SFSP-YMCA SE NC Leland  
+975,W1128,36459.75,W1128,Town of Atkinson  
+976,W1129,255.0,W1129,Trillium Health Resources   
+977,W1130,326.0,W1130,Eastpointe  
+978,W1131,844.4,W1131,Christian Community Caring Center  4 C’s Food Pantry 
+979,W1132,163.0,W1132,SP - Hawk's Harvest UNCW Student Food Pantry  
+980,W1133,27350.00947368421,W1133,Cornerstone Baptist Church  
+981,W1136,24452.95888888889,W1136,Iglesia Vision 3D   
+982,W1137,8678.625,W1137,"The A.C.T.S. Movement, Inc.   "
+983,W1138,629.75,W1138,Saint Luke AME Zion Church  
+984,W1140,7984.0,W1140,Novant Health New Hanover Regional Medical Center  Food Pharmacy Program 
