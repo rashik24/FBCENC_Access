@@ -35,7 +35,7 @@ pre_df = load_scores()
 # =========================================================================
 # 🎛️ SIDEBAR FILTERS
 # =========================================================================
-st.title("🗺️ SHFB Access Score Dashboard")
+st.title("🗺️ FBCENC Access Score Dashboard")
 
 st.sidebar.header("🔧 Filters")
 
