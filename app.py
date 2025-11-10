@@ -132,10 +132,13 @@ tracts_clean["County_clean"] = (
 
 # --- Filter to your target 17 counties
 target_counties = [
-    "Alamance","Alexander","Alleghany","Ashe","Caldwell","Caswell",
-    "Davidson","Davie","Forsyth","Guilford","Iredell","Randolph",
-    "Rockingham","Stokes","Surry","Watauga","Wilkes","Yadkin"
-]
+        "Beaufort", "Bladen", "Brunswick", "Carteret", "Columbus", "Craven",
+        "Cumberland", "Duplin", "Durham", "Edgecombe", "Franklin", "Greene",
+        "Halifax", "Harnett", "Hertford", "Johnston", "Jones", "Lee",
+        "Lenoir", "Moore", "Nash", "New Hanover", "Onslow", "Orange",
+        "Pamlico", "Pender", "Person", "Pitt", "Robeson", "Sampson",
+        "Scotland", "Vance", "Wake", "Warren", "Wayne", "Wilson"
+    ]
 tracts_filtered = tracts_clean[tracts_clean["County_clean"].isin(target_counties)].copy()
 
 # --- Merge shapefile with Access + Agency info
